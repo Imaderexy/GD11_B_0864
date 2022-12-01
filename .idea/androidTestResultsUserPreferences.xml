@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidTestResultsUserPreferences">
+    <option name="androidTestResultsTableState">
+      <map>
+        <entry key="-1072542445">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="29ee8c9f" value="120" />
+                  <entry key="7fa1285e" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="Pixel_4_API_27" value="120" />
+                  <entry key="Tests" value="360" />
+                  <entry key="Xiaomi&#10; M2007J3SY" value="120" />
+                  <entry key="Xiaomi&#10; M2102J20SG" value="120" />
+                  <entry key="f4dd52ca" value="120" />
+                  <entry key="realme&#10; RMX3363" value="120" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
